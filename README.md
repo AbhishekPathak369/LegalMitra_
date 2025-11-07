@@ -86,6 +86,8 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 - *Performance Analytics*: Success rates and case statistics
 
 #### For Clients:
+![WhatsApp Image 2025-11-07 at 11 14 19_c76d2929](https://github.com/user-attachments/assets/10642af9-d00f-4dbb-8719-5ea09cce2b89)
+
 - *Case Overview*: Track all personal legal matters
 - *Lawyer Communication*: Direct messaging and contact system
 - *Payment History*: Complete financial transaction records
@@ -93,6 +95,7 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 - *Status Updates*: Real-time case progress notifications
 
 ### 💰 Expense Manager & Payment System
+![WhatsApp Image 2025-11-07 at 11 16 39_afd0efe1](https://github.com/user-attachments/assets/1c211130-2ce4-4c19-9608-912b2dbe157f)
 
 - *Cost Calculator*: Detailed legal expense breakdown
 - *Payment Planning*: Installment and one-time payment options
@@ -137,6 +140,8 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 - *System Administration*: User management and platform settings
 
 ### 🔔 Real-time Notification System
+<img width="618" height="512" alt="image" src="https://github.com/user-attachments/assets/cf67f730-4c5f-4b41-b3ae-3b1a60926e8f" />
+
 - *Case Updates*: Instant notifications for case progress
 - *Payment Alerts*: Payment confirmations and reminders
 - *Document Uploads*: Notifications for new document additions
