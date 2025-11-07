@@ -101,6 +101,9 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 - *Financial Reports*: Exportable expense summaries
 
 ### 📁 Document Vault & Manager
+<img width="1063" height="742" alt="image" src="https://github.com/user-attachments/assets/e1c6a4d0-8c2b-4db8-8876-9b8893f2acee" />
+
+
 - *Secure Cloud Storage*: Cloudinary-integrated document storage
 - *Categorized Folders*: Organized by case type and importance
 - *Multi-format Support*: PDF, images, Word documents, text files
@@ -108,6 +111,8 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 - *Version History*: Track document changes and updates
 
 ### 👨‍⚖ Professional Profile System
+<img width="1895" height="860" alt="image" src="https://github.com/user-attachments/assets/d364c87a-1ac8-4b39-b252-2e2890e2b640" />
+
 - *Verified Lawyer Profiles*: Bar council verified status badges
 - *Performance Metrics*: Case success rates and client reviews
 - *Downloadable Cards*: Export professional profiles as PNG/PDF
@@ -115,6 +120,9 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 - *Contact Management*: Secure client communication channels
 
 ### 🔍 Find a Lawyer Directory
+<img width="1881" height="726" alt="image" src="https://github.com/user-attachments/assets/c9ce26ae-4a43-4133-9c47-e7f37b2d6ae5" />
+
+
 - *Advanced Search*: Filter by specialization, experience, location
 - *Verified Listings*: Bar council verified lawyer profiles
 - *Rating System*: Client reviews and success ratings
@@ -147,6 +155,9 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 - *Invoice Generation*: Automated receipt and invoice creation
 
 ### 📱 Responsive Design
+<img width="613" height="786" alt="image" src="https://github.com/user-attachments/assets/5d12e8b5-f03d-4392-93ce-ee5ef7c77bb7" />
+<img width="443" height="615" alt="image" src="https://github.com/user-attachments/assets/af9805d7-e97a-4cd3-a54f-fe3bc34e77b9" />
+
 - *Mobile-First Approach*: Optimized for all device sizes
 - *Cross-Browser Compatibility*: Works on all modern browsers
 - *Accessibility Features*: WCAG compliant design elements
