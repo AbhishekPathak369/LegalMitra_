@@ -125,8 +125,11 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 
 ### 📊 Admin Management Panel
 <img width="1888" height="857" alt="image" src="https://github.com/user-attachments/assets/e42dae55-d9fa-4784-808f-2d38ef67e885" />
+
 <img width="1889" height="852" alt="image" src="https://github.com/user-attachments/assets/8adfcd5e-25db-4835-9735-61b577cdbc86" />
+
 <img width="1379" height="740" alt="image" src="https://github.com/user-attachments/assets/4bc2440a-49b5-43a3-a8ba-405a8f9328d8" />
+
 <img width="1141" height="759" alt="image" src="https://github.com/user-attachments/assets/eda639e9-bc3c-4c32-b8c7-3be781ec61d0" />
 
 - *User Verification*: Approve/reject lawyer registration requests
@@ -146,6 +149,7 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 
 ### 💳 Integrated Payment System
 <img width="1498" height="795" alt="image" src="https://github.com/user-attachments/assets/9cebbab0-a319-4732-ba50-9ae25d5da750" />
+
 <img width="1409" height="757" alt="image" src="https://github.com/user-attachments/assets/3c25c04f-02fc-48ba-9670-d0b2d8ba7c8b" />
 
 
@@ -157,6 +161,7 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 
 ### 📱 Responsive Design
 <img width="613" height="786" alt="image" src="https://github.com/user-attachments/assets/5d12e8b5-f03d-4392-93ce-ee5ef7c77bb7" />
+
 <img width="443" height="615" alt="image" src="https://github.com/user-attachments/assets/af9805d7-e97a-4cd3-a54f-fe3bc34e77b9" />
 
 - *Mobile-First Approach*: Optimized for all device sizes
@@ -166,20 +171,8 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 - *Intuitive UI/UX*: User-friendly interface and navigation
 
 ## 🗂 Project Structure
-LegalMitra/
-├── backend/
-│ ├── routes/ # API routes (auth, cases, payment, etc.)
-│ ├── models/ # MongoDB schemas
-│ ├── middleware/ # Authentication & validation
-│ └── server.js # Main server file
-├── frontend/
-│ ├── src/
-│ │ ├── components/ # Reusable UI components
-│ │ ├── pages/ # Main application pages
-│ │ ├── context/ # React context for state management
-│ │ └── assets/ # Images and static files
-│ └── package.json
-└── README.md
+<img width="550" height="349" alt="image" src="https://github.com/user-attachments/assets/aceef59c-8950-4e3a-96f5-77b9f4800d90" />
+
 
 ## 🚀 Installation & Setup
 
@@ -253,7 +246,7 @@ Content Management: Update FAQs and legal information
 Analytics Review: Monitor platform growth metrics
 
 📈 Performance Metrics
-Page Load Time: < 2 seconds
+Page Load Time: < 20 seconds
 
 API Response Time: < 500ms
 
@@ -290,12 +283,16 @@ Create a Pull Request
 📄 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-👥 Development Team
-Your Name - Full Stack Developer
+👥 Team Members
 
+My Name - Abhishek Pathak
 Role: Project Lead & Developer
+Contact: pathakabhi290@gmail.com
 
-Contact: your.email@domain.com
+Collaborator Name - Anurag Mishra
+Role: Project Lead & Developer
+Contact: anuragmishra5433@gmail.com
+
 
 🙏 Acknowledgments
 Razorpay for payment integration
