@@ -198,16 +198,10 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 ## ⚙ Environment Configuration
 
 ### Backend Environment Variables
-```env
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
-RAZORPAY_KEY_ID=your_razorpay_key
-RAZORPAY_KEY_SECRET=your_razorpay_secret
-CLOUDINARY_CLOUD_NAME=your_cloudinary_name
-CLOUDINARY_API_KEY=your_cloudinary_key
-CLOUDINARY_API_SECRET=your_cloudinary_secret
-EMAIL_USER=your_email@gmail.com
-EMAIL_PASS=your_app_password
+env
+
+![WhatsApp Image 2025-11-07 at 12 56 55_3d569216](https://github.com/user-attachments/assets/7c64dad9-e1f8-4ba2-99bc-643c9f9a726f)
+
 
 
 ---
