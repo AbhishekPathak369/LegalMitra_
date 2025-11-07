@@ -11,15 +11,6 @@ LegalMitra is a full-stack legal management platform that bridges the gap betwee
 
 
 
-## 📊 Real-time Statistics
-<div align="center">
-  
-![Total Users](https://img.shields.io/badge/Total%20Users-1,250+-blue)
-![Cases Handled](https://img.shields.io/badge/Cases%20Handled-3,500+-green)
-![Success Rate](https://img.shields.io/badge/Success%20Rate-89%25-brightgreen)
-![Active Lawyers](https://img.shields.io/badge/Active%20Lawyers-150+-orange)
-
-</div>
 
 ## 🛠 Tech Stack
 
