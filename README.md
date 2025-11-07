@@ -209,106 +209,94 @@ CLOUDINARY_API_SECRET=your_cloudinary_secret
 EMAIL_USER=your_email@gmail.com
 EMAIL_PASS=your_app_password
 
-🎯 Usage Guide
-For Lawyers
-Register/Login: Create verified lawyer account
 
-Profile Setup: Complete professional profile
+---
 
-Case Management: Add and manage client cases
+## 🎯 Usage Guide
 
-Payment Tracking: Monitor client payments
+### For Lawyers
+- Register/Login: Create verified lawyer account  
+- Profile Setup: Complete professional profile  
+- Case Management: Add and manage client cases  
+- Payment Tracking: Monitor client payments  
+- Document Management: Organize case files  
+- Client Communication: Interact with clients securely  
 
-Document Management: Organize case files
+### For Clients
+- Account Creation: Register as client  
+- Case Submission: Add legal cases with details  
+- Lawyer Search: Find and connect with lawyers  
+- Payment Processing: Secure payment for services  
+- Document Access: View case-related documents  
+- Progress Tracking: Monitor case status  
 
-Client Communication: Interact with clients securely
+### For Admins
+- User Management: Verify lawyer accounts  
+- Platform Monitoring: Track system performance  
+- Content Management: Update FAQs and legal information  
+- Analytics Review: Monitor platform growth metrics  
 
-For Clients
-Account Creation: Register as client
+---
 
-Case Submission: Add legal cases with details
+## 📈 Performance Metrics
+- Page Load Time: < 20 seconds  
+- API Response Time: < 500ms  
+- Mobile Responsiveness: 100% compatible  
+- Security: JWT authentication with bcrypt hashing  
+- Uptime: 99.9% service availability  
 
-Lawyer Search: Find and connect with lawyers
+---
 
-Payment Processing: Secure payment for services
+## 🔒 Security Features
+- Data Encryption: Secure password hashing with bcrypt  
+- JWT Tokens: Stateless authentication system  
+- CORS Protection: Configured cross-origin resource sharing  
+- Input Validation: Server-side data sanitization  
+- Cloud Security: Secure cloud storage with access controls  
 
-Document Access: View case-related documents
+---
 
-Progress Tracking: Monitor case status
-
-For Admins
-User Management: Verify lawyer accounts
-
-Platform Monitoring: Track system performance
-
-Content Management: Update FAQs and legal information
-
-Analytics Review: Monitor platform growth metrics
-
-📈 Performance Metrics
-Page Load Time: < 20 seconds
-
-API Response Time: < 500ms
-
-Mobile Responsiveness: 100% compatible
-
-Security: JWT authentication with bcrypt hashing
-
-Uptime: 99.9% service availability
-
-🔒 Security Features
-Data Encryption: Secure password hashing with bcrypt
-
-JWT Tokens: Stateless authentication system
-
-CORS Protection: Configured cross-origin resource sharing
-
-Input Validation: Server-side data sanitization
-
-Cloud Security: Secure cloud storage with access controls
-
-🤝 Contributing
+## 🤝 Contributing
 We welcome contributions to LegalMitra! Please follow these steps:
 
-Fork the repository
+1. Fork the repository  
+2. Create a feature branch  
+3. Commit your changes  
+4. Push to the branch  
+5. Create a Pull Request  
 
-Create a feature branch
+---
 
-Commit your changes
+## 📄 License
+This project is licensed under the *MIT License* - see the LICENSE.md file for details.
 
-Push to the branch
+---
 
-Create a Pull Request
+## 👥 Team Members
+*My Name:* Anurag Mishra  
+Role: Project Lead & Developer  
+Contact: anuragmishra5433@gmail.com  
 
-📄 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+*Collaborator Name:* Abhishek Pathak  
+Role: Project Lead & Developer  
+Contact: pathakabhi290@gmail.com  
 
-👥 Team Members
+---
 
-My Name - Abhishek Pathak
-Role: Project Lead & Developer
-Contact: pathakabhi290@gmail.com
+## 🙏 Acknowledgments
+- Razorpay for payment integration  
+- Cloudinary for document management  
+- MongoDB Atlas for database services  
+- Render for deployment hosting  
+- The open-source community for valuable libraries  
 
-Collaborator Name - Anurag Mishra
-Role: Project Lead & Developer
-Contact: anuragmishra5433@gmail.com
-
-
-🙏 Acknowledgments
-Razorpay for payment integration
-
-Cloudinary for document management
-
-MongoDB Atlas for database services
-
-Render for deployment hosting
-
-The open-source community for valuable libraries
+---
 
 <div align="center">
-💼 Ready to Transform Legal Management?
-Get Started | View Features | Learn More
 
-LegalMitra - Making Legal Services Accessible to All
+💼 *Ready to Transform Legal Management?*  
+Get Started | View Features | Learn More  
 
-</div> ```
+*LegalMitra - Making Legal Services Accessible to All*
+
+</div>
