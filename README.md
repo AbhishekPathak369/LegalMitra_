@@ -267,13 +267,13 @@ This project is licensed under the *MIT License* - see the LICENSE.md file for d
 ---
 
 ## 👥 Team Members
-*My Name:* Anurag Mishra  
+*My Name:*  Abhishek Pathak 
 Role: Project Lead & Developer  
-Contact: anuragmishra5433@gmail.com  
+Contact: pathakabhi290@gmail.com 
 
-*Collaborator Name:* Abhishek Pathak  
+*Collaborator Name:*  Anurag Mishra 
 Role: Project Lead & Developer  
-Contact: pathakabhi290@gmail.com  
+Contact: anuragmishra5433@gmail.com 
 
 ---
 
